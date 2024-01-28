@@ -57,3 +57,15 @@ For questions or suggestions, feel free to contact me at my email yvettemcj@gmai
 You can also find me on Github at [https://github.com/YvetteCarbajal]
 (https://github.com/https://github.com/YvetteCarbajal).
 
+
+## video 
+https://drive.google.com/file/d/1HGLeAxD_bc3RDZK4nFTZGNyATOP3jfNz/view
+
+## source code 
+https://stackoverflow.com/questions/62597209/trying-to-generate-a-readme-using-nodejs in index.js
+https://stackoverflow.com/questions/67013842/trying-to-place-license-badge-within-readme-md-using-node-js-but-getting-error-a
+Generatemarkdown.js
+https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
+In the generatemarkdown.js
+https://bootcampspot.instructure.com/courses/4612/external_tools/313
+In generatemarkdown.js
